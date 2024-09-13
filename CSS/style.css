@@ -1,0 +1,47 @@
+/* * {
+    color:orange;
+} */
+
+/* h1 {
+    color:green;
+}
+
+p {
+    color:blue;
+}
+
+button {
+    color:brown;
+    background-color:white;
+}
+
+body {
+    background-color:#8D6346;
+}
+
+#headingOne {
+    color:yellow;
+}
+
+.myClass{
+    color:magenta;
+} */
+
+p {
+    /* text-align:right; */
+    /* text-align:left; */
+    text-align:center;
+}
+h5 {
+    text-align:center;
+    /* text-decoration: underline; */
+    /* text-decoration: overline; */
+    text-decoration: line-through;
+    /* text-decoration: red underline; */
+    /* text-decoration: blue wavy underline; */
+    text-decoration: blue dotted underline;
+}
+
+a {
+    text-decoration: none;
+}
